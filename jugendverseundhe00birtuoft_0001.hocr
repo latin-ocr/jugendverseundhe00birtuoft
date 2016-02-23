@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./jugendverseundhe00birtuoft_0001.png"; bbox 0 0 1898 3190; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 202 451 1415 880">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 202 451 1415 880">
+     <span class='ocr_line' id='line_1_1' title="bbox 202 451 1414 520; baseline 0.012 -12"><span class='ocrx_word' id='word_1_1' title='bbox 202 453 783 514; x_wconf 68' lang='grc' dir='ltr'>-τΗΕοῡΟΒ</span> <span class='ocrx_word' id='word_1_2' title='bbox 858 454 1091 512; x_wconf 67' lang='grc' dir='ltr'>ΒιΒτ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1178 453 1250 520; x_wconf 75' lang='grc'>[51</span> <span class='ocrx_word' id='word_1_4' title='bbox 1343 451 1414 520; x_wconf 77' lang='grc' dir='ltr'>[ΞῚ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 265 572 1415 642; baseline 0.012 -15"><span class='ocrx_word' id='word_1_5' title='bbox 265 572 957 642; x_wconf 18' lang='lat' dir='ltr'>JLUQENDVERSE</span> <span class='ocrx_word' id='word_1_6' title='bbox 1040 577 1237 635; x_wconf 80' lang='lat' dir='ltr'>UND</span> <span class='ocrx_word' id='word_1_7' title='bbox 1342 573 1415 641; x_wconf 79' lang='grc' dir='ltr'>ΙΞΙ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 260 696 1397 778; baseline 0.007 -23"><span class='ocrx_word' id='word_1_8' title='bbox 260 696 959 778; x_wconf 13' lang='grc' dir='ltr'>ΗΕΙιΜΑΤΡΟΕΞΙΕ</span> <span class='ocrx_word' id='word_1_9' title='bbox 1006 698 1397 763; x_wconf 65' lang='grc' dir='ltr'>νεῆαιιε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 261 817 1401 880; baseline 0.008 -8"><span class='ocrx_word' id='word_1_10' title='bbox 261 817 697 875; x_wconf 28' lang='grc' dir='ltr'>ΕΒΚῚᾺᾹΒῌΝΟ</span> <span class='ocrx_word' id='word_1_11' title='bbox 737 827 871 874; x_wconf 83' lang='lat' dir='ltr'>DES</span> <span class='ocrx_word' id='word_1_12' title='bbox 915 829 1401 880; x_wconf 79' lang='lat' dir='ltr'>CATALEPTON</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
